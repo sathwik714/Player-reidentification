@@ -1,0 +1,9 @@
+frame_no,player_id,camera,x1,y1,x2,y2
+55,0,tacticam,642,201,653,213
+55,0,broadcast,1441,496,1455,510
+60,0,tacticam,656,211,666,222
+60,0,broadcast,1441,496,1455,510
+95,0,tacticam,676,249,687,260
+95,0,broadcast,1441,496,1455,510
+185,0,tacticam,110,422,122,432
+185,0,broadcast,1441,496,1455,510
